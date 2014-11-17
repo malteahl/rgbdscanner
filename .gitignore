@@ -1,0 +1,29 @@
+# Folders
+bin/
+build/
+srv_gen/
+docs/
+.settings/
+msg_gen/
+cpp/
+octave-core/
+# Files
+*.swp
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.o
+*.cmake
+*.make
+*.bin
+*.so
+*.a
+*.pyc
+*~
+_*
+.project
+.cproject
+.pydevproject
+*.cfgc
